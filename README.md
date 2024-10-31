@@ -11,19 +11,35 @@ CEO
     
  2. Which region is generating the highest revenue, and which region is generating the lowest?
     
- 3. What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
+    ![Screenshot 2024-10-22 130239](https://github.com/user-attachments/assets/9d057a3e-7f3d-40fb-bbb8-a6de8ceec3e7)
+
     
- 4. How much sales are we likely to generate in the first quarter of  2012.
+    
+ 4. What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
+    
+    ![Screenshot 2024-10-21 144812](https://github.com/user-attachments/assets/97ff55a2-933c-4a71-a0fd-486d5eb787be)
+
+
+
+    
+    
+ 5. How much sales are we likely to generate in the first quarter of  2012.
   
 CMO
 
- 1.Who are the top 20 customers with the highest lifetime value(monetary contribution to the company) and what are their geographical location ?
+ 1.Who are the top 10 customers with the highest lifetime value(monetary contribution to the company) ?
+
+ ![Screenshot 2024-10-22 160140](https://github.com/user-attachments/assets/283dd4fe-154c-4115-852c-c43449d3d6a1)
+
+ 
 
  2.Which pr oducts sell best in the top 10 high sales countries
 
  3.What are the sales performance by time of day and  month. This can help optimize staffing, inventory, and marketing efforts in 2012
  
   4. What are the top 10 countries that generate the highest revenue
+     ![Screenshot 2024-10-22 153739](https://github.com/user-attachments/assets/90e69371-3d71-4fc2-a2de-1f60f5ae323d)
+
 
  
 
