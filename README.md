@@ -10,8 +10,21 @@ CEO
  1. What is the overall revenue generated in 2010 and 2011.
     
  2. Which region is generating the highest revenue, and which region is generating the lowest?
-    
-    ![Screenshot 2024-10-22 130239](https://github.com/user-attachments/assets/9d057a3e-7f3d-40fb-bbb8-a6de8ceec3e7)
+  ![image](https://github.com/user-attachments/assets/9a7c4616-36c7-46db-8074-35fe09ef6de3)
+
+The geographical analysis of our company's revenue contributions reveals interesting  insights into Tata's global market presence and potential growth opportunities.
+#### Revenue Contributions by Country
+Analysis from the retail online data reveals a significant disparity in revenue contributions across different countries:
+Aside the  united kingdom which is the the companys strongest market,Netherlands showed up as a standout performer, contributing a substantial 17.39% to the total revenue.
+On the other hand,Saudi Arabia the smallest contributor of all, accounted for just 0.01% of revenue generation.
+#### Geographical Distribution
+The visualization of Tata group's market presence paints an intriguing picture.  A high concentration of countries in Europe indicates a strong foothold in this region
+Several countries represented in Asia also, suggests an emerging market presence.
+#### Recommendations
+For the purpose of market expansion,the company should leverage its existing strong presence to deepen market penetration in Europe and also focus on increasing
+its customer base in Asia.These can be achieved by lauching discount programs to attract new customers
+Develop region-specific promotional deals to boost customer acquisition and retention.
+Create localized marketing campaigns to resonate with diverse cultural preferences
 
     
     
