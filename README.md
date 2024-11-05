@@ -68,21 +68,18 @@ Highest Revenue Generator: Customer ID 14646
 10th Highest Contributor: Customer ID 12346
 Geographic Insights
 These top-performing customers are strategically located across Europe Asia Iceland
-Recommendations for Customer Retention and Growth
-1. Incentivize Long-Term Engagement by:
--Implementing a tiered loyalty program with exclusive benefits
--Offering personalized discounts based on purchase history
--Create VIP experiences for top-spending customers
+#### Recommendations for Customer Retention and Growth
+**Incentivize Long-Term Engagement by**
+- Implementing a tiered loyalty program with exclusive benefits.
+- Offering personalized discounts based on purchase history.
+- Creating VIP experiences for top-spending customers.
 
-2. Expand Asian Market Presence
--Conduct market research to identify ideal customer profiles in Asia
--Tailor marketing campaigns to regional preferences and cultural nuances
--Partner with local influencers and brands to increase visibility
--Optimize product offerings for Asian markets
-
-
-
-![image](https://github.com/user-attachments/assets/d81f3413-65c4-49ec-9a77-447125393989)
+ **Expand Asian Market Presence**
+- Conduct market research to identify ideal customer profiles in Asia.
+- Tailor marketing campaigns to regional preferences and cultural nuances.
+- Partner with local influencers and brands to increase visibility.
+  
+ 
 
 
  
@@ -91,8 +88,24 @@ Recommendations for Customer Retention and Growth
 
  3.What are the sales performance by time of day and  month. This can help optimize staffing, inventory, and marketing efforts in 2012
  
-  4. What are the top 10 countries that generate the highest revenue
+  4. What are the top 10 countries that generate the highest revenue and quantity sold
      ![Screenshot 2024-10-22 153739](https://github.com/user-attachments/assets/90e69371-3d71-4fc2-a2de-1f60f5ae323d)
+#### Top Revenue Contributors
+Analysing the top ten countries with high revenue generation,outside the united states,Netherlands emerged as the highest contributor, contributing $285 thousand and 201 thousand units of products sold followed by EIRE(Ireland) cotributing $283 thousand and 147 thousand units of product sold.
+Japan identified as the least revenue contributor among the top ten.
+#### European Dominance
+With the Netherlands and Ireland leading the pack, there's a clear indication of strong market presence in Europe.
+Interestingly, the Netherlands sold more units (201,000) compared to Ireland (147,000), yet the revenue difference is minima.
+This could suggest higher average price per unit in Ireland therefore, there is a potential for price optimization in the Netherlands.
+#### Japan's Position
+Despite being among the top ten, Japan's performance as the lowest contributor highlights an opportunity for growth in the Asian market.
+Strategic Implications
+#### Recommendation
+- The company should consider analyzing the price points across different markets this could reveal opportunities for revenue optimization.
+- With Japan underperforming relative to European countries, there's potential to strengthen the company's presence in Asia.
+- The company should consider investigating which products are driving sales in top-performing countries.This could inform global product strategies.
+
+    
 
 
  
